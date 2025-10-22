@@ -1,1 +1,8 @@
 .devcontainer/devcontainer.json
+
+.idea/
+.vscode/
+node_modules/
+dist/
+.vite
+npm-debug.log
